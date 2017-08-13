@@ -427,6 +427,10 @@ hr {
   color: #404040;
 }
 
+.notunderlined {
+  text-decoration: none;
+}
+
 .icon {
   max-width: 50px;
 }
